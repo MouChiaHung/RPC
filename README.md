@@ -10,4 +10,4 @@
 
 5. Create one shell to run adb logcat to see their communication.
 
-![image](https://github.com/MouChiaHung/RPC/blob/master/binder_cpp.jpg)
+![image](https://github.com/MouChiaHung/RPC/blob/master/demo.jpg)
