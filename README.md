@@ -1,4 +1,4 @@
-# Make one client and one server executive using cpp and android binder mechanism
+# RPC using cpp and android binder mechanism
 
 1. Copy cpp folder to  ${RepoTop}/external and run mm.
 
